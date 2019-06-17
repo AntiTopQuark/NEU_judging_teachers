@@ -1,4 +1,4 @@
-# NEU_judeging_teachers
+# NEU_judging_teachers
 使用方法：
 1.进入打分界面
 2.按F12 进入console
